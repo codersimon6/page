@@ -43,9 +43,8 @@ const MenuHeader = () => {
             key: 'deposit',
         },
         {
-            label: <a href="https://twitter.com/jingluo0" target="_blank"
-                      rel="noopener noreferrer"><GithubOutlined/></a>,
-            key: 'Follow',
+            label: 'Coffee',
+            key: 'coffee',
         },
         // {
         //     label: <a href="https://github.com/wxtsky/MyWalletScan" target="_blank"

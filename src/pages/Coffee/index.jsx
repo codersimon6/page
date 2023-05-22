@@ -7,7 +7,7 @@ import copy from 'copy-to-clipboard';
 const {Content} = Layout;
 const {Title, Text} = Typography;
 
-const Follow = () => {
+const Coffee = () => {
     const ethAddress = "0x88888A8b367cCE8C82C451f37511905c3028ed49";
 
     const contentStyle = {
@@ -55,4 +55,4 @@ const Follow = () => {
     );
 }
 
-export default Follow;
+export default Coffee;

@@ -3,7 +3,7 @@ const MyFooter = () => {
         <>
             {/*<Button*/}
             {/*    type="link"*/}
-            {/*    href="https://twitter.com/fngg29154511"*/}
+            {/*    href="https://twitter.com/jingluo0"*/}
             {/*    target="_blank"*/}
             {/*    icon={<TwitterOutlined/>}*/}
             {/*    size={"middle"}*/}
