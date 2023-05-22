@@ -43,8 +43,7 @@ const MenuHeader = () => {
             key: 'deposit',
         },
         {
-            label: <a href="https://twitter.com/fngg29154511" target="_blank"
-                      rel="noopener noreferrer"><TwitterOutlined/></a>,
+            label: 'Coffee',
             key: 'coffee',
         },
         {
