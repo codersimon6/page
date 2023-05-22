@@ -5,7 +5,7 @@ import Stark from "@pages/Stark/index.jsx";
 import {Layout} from "antd";
 import Layer from "@pages/Layer/index.jsx";
 import Mirror from "@pages/Mirror/index.jsx";
-import Coffee from "@pages/Coffee/index.jsx";
+import Follow from "@pages/Follow/index.jsx";
 import Deposit from "@pages/Deposit/index.jsx";
 
 function MainPage() {
@@ -52,7 +52,7 @@ function MainPage() {
                         {location.pathname === "/stark" && <Stark/>}
                         {location.pathname === "/layer" && <Layer/>}
                         {location.pathname === "/mirror" && <Mirror/>}
-                        {location.pathname === "/coffee" && <Coffee/>}
+                        {location.pathname === "/Follow" && <Follow/>}
                         {location.pathname === "/deposit" && <Deposit/>}
                     </div>
                 </div>

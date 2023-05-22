@@ -9,7 +9,7 @@ const MainPage = React.lazy(() => import("@pages/MainPage"));
 const Stark = React.lazy(() => import("@pages/Stark"));
 const Layer = React.lazy(() => import("@pages/Layer"));
 const Mirror = React.lazy(() => import("@pages/Mirror"));
-const Coffee = React.lazy(() => import("@pages/Coffee"));
+const Follow = React.lazy(() => import("@pages/Follow"));
 const Deposit = React.lazy(() => import("@pages/Deposit"));
 const router = [
     {
@@ -36,8 +36,8 @@ const router = [
                 element: <Mirror/>,
             },
             {
-                path: '/coffee',
-                element: <Coffee/>,
+                path: '/Flower',
+                element: <Follow/>,
             },
             {
                 path: '/deposit',
