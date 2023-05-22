@@ -8,13 +8,13 @@ const MyFooter = () => {
                 icon={<TwitterOutlined/>}
                 size={"middle"}
             />
-            {/*<Button*/}
-            {/*    type="link"*/}
-            {/*    href="https://github.com/wxtsky/MyWalletScan"*/}
-            {/*    target="_blank"*/}
-            {/*    icon={<GithubOutlined/>}*/}
-            {/*    size={"middle"}*/}
-            {/*/>*/}
+            <Button
+                type="link"
+                href="https://github.com/wxtsky/MyWalletScan"
+                target="_blank"
+                icon={<GithubOutlined/>}
+                size={"middle"}
+            />
         </>
     )
 }
